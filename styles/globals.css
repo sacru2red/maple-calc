@@ -1,3 +1,7 @@
+:root {
+  --concept-color: rgb(64, 165, 52);
+}
+
 html,
 body {
   padding: 0;
